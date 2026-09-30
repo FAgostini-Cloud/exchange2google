@@ -1,0 +1,11 @@
+{
+  "sourceAccount": "my.user@m365.com",
+  "sourceCalendar": "Calendar",
+  "targetAccount": "my.user@gmail.com",
+  "targetCalendar": "M365",
+  "daysBack": 30,
+  "daysForward": 180,
+  "copyDetails": true,
+  "skipDeclined": true,
+  "syncIntervalMinutes": 15
+}

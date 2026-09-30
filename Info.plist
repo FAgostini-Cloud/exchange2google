@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.fedeagostini.m365-calendar-sync</string>
+    <key>CFBundleName</key>
+    <string>m365-calendar-sync</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Copies your M365 work calendar into your personal Google calendar.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Copies your M365 work calendar into your personal Google calendar.</string>
+</dict>
+</plist>
